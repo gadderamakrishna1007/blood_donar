@@ -1,1 +1,24 @@
+# Core Streamlit Framework
+streamlit>=1.28.0
 
+# Data Processing and Analysis
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Geographic and Location Services
+geopy>=2.3.0
+
+# Data Visualization
+plotly>=5.15.0
+
+# Date and Time Handling
+datetime  # Built-in Python module
+
+# JSON Data Handling
+json  # Built-in Python module
+
+# UUID Generation
+uuid  # Built-in Python module
+
+# Time Operations
+time  # Built-in Python module
